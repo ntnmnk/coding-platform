@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="coding.platform.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-20T14:35:56" hostname="DESKTOP-88EK36K" time="0.375">
-  <properties/>
-  <testcase name="application has a greeting" classname="coding.platform.AppTest" time="0.375"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
